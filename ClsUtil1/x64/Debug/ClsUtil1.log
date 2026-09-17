@@ -1,0 +1,44 @@
+﻿  ClsUtil1.cpp
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(828,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(849,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(887,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(888,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(910,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(911,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(927,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(928,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(944,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(945,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(965,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(966,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(984,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'ClsUtil1.cpp')
+  
+D:\Classes in C++\ClsUtil1\ClsUtil1.h(988,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'ClsUtil1.cpp')
+  
+  ClsUtil1.vcxproj -> D:\Classes in C++\ClsUtil1\x64\Debug\ClsUtil1.exe
