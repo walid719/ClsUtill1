@@ -88,7 +88,6 @@ ClsUtil1::printName("Oday Amer")*/;
 //int Array[3];
 //ClsUtil1::Read3Numbers3(Array);
 //ClsUtil1::PrintMaximumOf3Numbers3(Array);
-
 //--------------------------------------
 //ClsUtil1::stTwoNumbers Info = ClsUtil1::Read2Numbers();
 //ClsUtil1::TheNumberBefoureSwap(Info);
@@ -137,51 +136,87 @@ ClsUtil1::printName("Oday Amer")*/;
 //--------------------------------------
 //ClsUtil1::PrintAge(ClsUtil1::ReadAge(18,45),18,45);
 //--------------------------------------
-ClsUtil1::PrintResultAge(ClsUtil1::ReadUntilAgeBetween(18, 45), 18, 45);
+//ClsUtil1::PrintResultAge(ClsUtil1::ReadUntilAgeBetween(18, 45), 18, 45);
+//--------------------------------------
+//int N = ClsUtil1::ReadNumber("please enter Number N to print Numbers From 1 to N");
+//ClsUtil1::PrintRangeFrom1toN_Usingwhile(N);
+//ClsUtil1::PrintRangeFrom1toN_Using_Dowhile(N);
+//ClsUtil1::PrintRangeFrom1toN_UsingFor(N);
+//--------------------------------------
+//int N = ClsUtil1::ReadNumber("please enter Number N to print Numbers From N to 1");
+//ClsUtil1::PrintRangeFromNto1_Usingwhile(N);
+//ClsUtil1::PrintRangeFromNto1_Using_Dowhile(N);
+//ClsUtil1::PrintRangeFromNto1_UsingFor(N);
 
+//cout<<ClsUtil1::SumOddNumbersFrom1toN_Usingwhile(N)<<endl;-------------------------------------
+//cout << ClsUtil1::SumOddNumbersFrom1toN_Using_Dowhile(N) << endl;nt N = ClsUtil1::ReadNumber("please enter Number N to print Numbers From N to 1");
+//cout << ClsUtil1::SumOddNumbersFrom1toN_UsingFor(N) << endl;lsUtil1::PrintTheOddNumbersFrom1ToN(N);
+//--------------------------------------
+//int N = ClsUtil1::ReadNumber("please enter Number N to print Numbers From N to 1");
+//ClsUtil1::PrintTheEvenNumbersFrom1ToN(N);
+//cout << ClsUtil1::SumEvenNumbersFrom1toN_Usingwhile(N) << endl;
+//cout << ClsUtil1::SumEvenNumbersFrom1toN_Using_Dowhile(N) << endl;
+//cout << ClsUtil1::SumEvenNumbersFrom1toN_UsingFor(N) << endl;
+
+//--------------------------------------
+//ClsUtil1::PrintFactorail(ClsUtil1::ReadPositiveNumber("Please Enter N ? "));
+//--------------------------------------
+//ClsUtil1::PowerOf2_3_4(ClsUtil1::ReadPositiveNumber("Please Enter N ? "));
+//--------------------------------------
+//ClsUtil1::PrintPowerOfM(ClsUtil1::ReadPositiveNumber("Please Enter N ? "), ClsUtil1::ReadPower());
+//--------------------------------------
+//ClsUtil1::ShowMenue();
+//--------------------------------------
+//int Number = ClsUtil1::ReadNumberInRange(1, 100);
+//cout<<"\nResult : "<<ClsUtil1::GetGradeLeter(Number);
+//--------------------------------------
+//ClsUtil1::PrintResultCommition();
+//--------------------------------------
+//ClsUtil1::PrintResultPigBankCalculator();
+//--------------------------------------
+//ClsUtil1::PrintResultOfSimpleCalculate();
+//--------------------------------------
+//ClsUtil1::PrintResultOfSimpleCalculate2();
+//--------------------------------------
+//int Sum = ClsUtil1::SumNumbers();
+//cout << "\nResult = " <<  Sum << endl;
+//--------------------------------------
+//ClsUtil1::PrintNumberType(ClsUtil1::ReadPositiveNumber("Please enter Positive Number ?"));
+//--------------------------------------
+//ClsUtil1::PrintResultOfPayRemainder();
+//--------------------------------------
+//ClsUtil1::PrintResultOfServiceFeeAndSalesTax();
+//--------------------------------------
+//ClsUtil1::PrintData();
+//--------------------------------------
+//int DurationInSecend = ClsUtil1::TaskDurationInSecond(ClsUtil1::ReadTaskDuration());
+//cout << "\n----------------------------------------------\n";
+//cout << " Task Duration In Second is : " << DurationInSecend << " Secend" << endl;
+//cout << "----------------------------------------------\n";
+//--------------------------------------
+//int TotalSecond = ClsUtil1::ReadPositiveNumber("please enter Total Second ? \n ");
+//ClsUtil1::PrintTaskDurationDetails(ClsUtil1::SecondsToTaskDuration(TotalSecond));
+//--------------------------------------
+//ClsUtil1::PrintResultDayOfWeek();
+//--------------------------------------
+//ClsUtil1::PrintResultMonthOfYear();
+//--------------------------------------
+//ClsUtil1::PrintLetterAtoZ();
+//--------------------------------------
+//ClsUtil1::PrintResultLoanInstallmentMonths();
+//--------------------------------------
+//ClsUtil1::PrintResultMonthlyLoanInstallment();
+//--------------------------------------
+//ClsUtil1::PrintResultATMPIN();
+//--------------------------------------
+//ClsUtil1::PrintResultATMPIN3Times();
+//--------------------------------------
 
 //--------------------------------------
 
-
 //--------------------------------------
 
-
 //--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
-//--------------------------------------
-
-
 
 
 
